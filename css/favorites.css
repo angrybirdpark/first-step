@@ -1,0 +1,29 @@
+body {
+     margin: 0;
+     overflow: hidden;
+     font-family: 'Source Sans Pro';
+     background-color: #F7BE81;
+
+}
+
+.favorites {
+     display: flex;
+     justify-content: center;
+     padding: 20vh;
+}
+
+.img_favorites {
+     max-width: 20vw;
+     height: 18vw;
+     margin: 1vh 2vw;
+     border-style: solid;
+     border-width: 1vw;
+     border-color: white;
+     border-radius: 10%;
+}
+
+.text_favorites {
+     padding: 1vh 3vw;
+     font-size: 3vh;
+     font-style: italic;
+}
